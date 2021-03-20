@@ -1,13 +1,21 @@
-.contact{
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.contact {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
-.bg{
+.bg {
 	width: 100%;
 	background-color: rgba(0, 0, 0, 0.2);
 }
-.heading-wwd{
+.heading-wwd {
 	padding-top: 5px;
 	text-align: center;
 	font-style: italic;
