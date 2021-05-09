@@ -1,2 +1,2 @@
 # Business Website
-GitHub Page https://github.com/SanyaTiwari/BusinessWebsite.git
+GitHub Page  https://sanyatiwari.github.io/BusinessWebsite/
